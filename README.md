@@ -14,5 +14,5 @@ Created a Road Accident Dashboard in Excel, showing total casualties by severity
 ## Insights
 - Vehicle Type with Maximum Casualties: Cars accounted for 80% of all casualties, indicating they were the most involved in accidents compared to other vehicle types like motorcycles, buses, and trucks.
 - Monthly Trends: The monthly trend analysis shows a consistent number of casualties each month, with peaks observed in July and October.
-- Casualties by Road Type: Most accidents occurred on single carriageways, accounting for 165,045 casualties. This suggests single carriageways may pose higher risks compared to dual carriageways and other road types.
+- Casualties by Road Type: Most accidents occurred on single carriageways, accounting for 165,045 casualties.
 - Casualties by Area: Urban areas had the highest number of casualties (60.6%), compared to rural areas (39.4%). This indicates a greater frequency of accidents in city areas.
